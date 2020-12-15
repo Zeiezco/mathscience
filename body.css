@@ -1,0 +1,85 @@
+header{
+    float: right;
+ font-size: 30px;
+
+}
+body{
+    background-color: aliceblue;
+}
+
+
+.list{
+    text-decoration: none;
+    
+    color: black;
+    list-style-type: none;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.list a{
+    text-decoration: none;
+    color: black;
+}
+
+
+#topnav{
+    font-size:25px;
+    
+}
+
+#hod{
+    font-size: 20px;
+    
+    
+}
+fieldset{
+    width: 500px;
+    border-color:transparent;
+}
+
+#lol{
+    float: right;
+}
+.left_side{
+    float: left;
+}
+.right_side{
+    float: right;
+}
+
+.page_footer{
+    padding-buttom: -10%;
+    clear: both;
+    font-size: 25px;
+    font-weight: 100;
+    font-style: italic;
+    
+}
+
+#h1{
+    color: green;
+}
+
+#foot{
+    text-decoration: none;
+    list-style-type: none;
+    
+    
+}
+
+footer{
+    background-color:wheat;
+    color: black;
+}
+
+.listd{
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+.listd a{
+    color: black;
+}
